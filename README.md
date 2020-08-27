@@ -8,6 +8,10 @@ Quantifying the impact of lockdowns on the local and hierarchical spread of SARS
 
 Huaiyu Tian, Yidan Li, Moritz U.G. Kraemer, Bingying Li, Yonghong Liu, Ligui Wang, Hua Tan, Chieh-Hsi Wu, Zengmiao Wang, Pai Zheng, Peng Yang, Quanyi Wang, Henrik Salje, Christopher Dye, Oliver G. Pybus, Hongbin Song, Bryan T. Grenfell, Ottar N. Bjornstad
 
+## Abstract
+
+Many countries worldwide have implemented lockdowns to contain the initial pandemic wave of SARS-CoV-2, with substantial success in bringing the epidemic’s effective reproduction number close to or below one in several regions. In order to best inform policy we need to understand the effectiveness of the lockdown and spatial distancing on containing the ongoing SARS-CoV-2 pandemic. Models of spatial and local spread are critical to evaluate plausible scenarios for safe future return to normality. Here we use a unique mobile phone dataset from China covering within-and-between 358 cities analyzing 561 million travel movements before and after the national emergence response, to inform a spatiotemporal model of SARS-CoV-2 transmission in China during the first 6 months of spread and containment of the initial wave. We find that during the emergency response nationwide travel declined by 73% between cities and movement within city was reduced by 63%. Our calculations show that combined interventions including large-scale lockdown and spatial distancing in place for months, depending on implementation and intensity, were critical for initial control of the virus.
+
 ## Notes on the code
 
 To run, you need a Matlab toolbox called "DRAM": 
