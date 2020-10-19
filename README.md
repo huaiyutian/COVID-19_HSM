@@ -21,7 +21,7 @@ About code folder:
 main file : f1.m;
 funciton dependencies:f2.m,f3.m,f4.m and MCMC DRAM toolbox;
 
-All senarios and figure results can get in following independent files :
+All senarios and figure results can get in following independent files:
 1.fig 4a:  f5.m(main file),f3pred.m,f4pred.m
 local and imported cases:
 2.fig 4c,4d: f8_csd_cld.m
