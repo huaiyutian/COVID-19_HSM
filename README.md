@@ -17,6 +17,30 @@ Many countries worldwide have implemented lockdowns to contain the initial pande
 To run, you need a Matlab toolbox called "DRAM": 
 DRAM is a combination of two ideas for improving the efficiency of Metropolis-Hastings type Markov chain Monte Carlo (MCMC) algorithms, Delayed Rejection and Adaptive Metropolis. This page explains the basic ideas behind DRAM and provides examples and Matlab code for the computations.(see http://helios.fmi.fi/~lainema/dram/)
 
+About code folder:
+main file : f1.m;
+funciton dependencies:f2.m,f3.m,f4.m and MCMC DRAM toolbox;
+
+All senarios and figure results can get in following independent files :
+1.fig 4a:  f5.m(main file),f3pred.m,f4pred.m
+local and imported cases:
+2.fig 4c,4d: f8_csd_cld.m
+epidemic duration ~ social distancing+ lockdown(intra+inner) 
+average peak size for cities ~ social distancing + lockdown(intra+inner) 
+3.fig S6 (fig R1): f8_intra_csd.m; f8_inter_csd.m
+respective effect of inter-city and intra-city travel and social distancing
+4.fig S7: f8_inter_intra_sd.m(mail file), f8_controlforsd.m 
+average epidemic duration for cities and average peak size for cities in various setting of 
+inter-city travel and intra-city travel when social distancing=0.2,0.4,0.6,1 
+5.fig S8: f8_inter_csd_ahead1w_whlockdown.m
+Shortened epidemic duration of cities under inter-city travel restriction
+ implemented one week earlier than actual timing. 
+6.fig S9: f8_inter_intra_R0.m(mail file), f8_controlforR0.m 
+average peak size for cities in various setting of lockdown and social distancing when R0=2,3,4;
+7.fig S10: f8_csd_cld_lock.m
+ average epidemic duration for cities in various setting of the proportion of cities shutdown 
+(banned inter-city travel and restrict intra-city travel (reduced to 10%)) and social distancing.
+
 ## Data
 
 ### Epidemiological data
