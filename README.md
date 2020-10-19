@@ -6,7 +6,7 @@ Code for: Quantifying the impact of lockdowns on the local and hierarchical spre
 
 Quantifying the impact of lockdowns on the local and hierarchical spread of SARS-CoV-2
 
-Huaiyu Tian, Yidan Li, Moritz U.G. Kraemer, Bingying Li, Yonghong Liu, Ligui Wang, Hua Tan, Chieh-Hsi Wu, Zengmiao Wang, Pai Zheng, Peng Yang, Quanyi Wang, Henrik Salje, Christopher Dye, Oliver G. Pybus, Hongbin Song, Bryan T. Grenfell, Ottar N. Bjornstad
+Huaiyu Tian, Yidan Li, Moritz U.G. Kraemer, Bingying Li, Yonghong Liu, Ligui Wang, Hua Tan, Chieh-Hsi Wu, Zengmiao Wang, Pai Zheng, Peng Yang, Quanyi Wang, Marko Laine, Henrik Salje, Christopher Dye, Oliver G. Pybus, Hongbin Song, Bryan T. Grenfell, Ottar N. Bjornstad
 
 ## Abstract
 
@@ -25,7 +25,7 @@ We collected the daily official case reports from the health commission of 34 pr
 
 ### Mobility data
 
-Human movement in China can be observed directly from mobile phone data, through the Baidu location-based services (LBS). Both the recorded movements and relative volume of inflows, outflows, inner movement among cities (n=358), were obtained from the migration flows database (http://qianxi.baidu.com/) from 1 January 2019 to 1 April 2020. Mobility data outside China is obtained from Apple Maps (www.apple.com/covid19/mobility) from 13 January 2020 to 4 July 2020, a total of 40 countries were used for analysis (See Extended Data Table 2). Baidu's LBS data was collected and processed by Dr.Ligui Wang and Dr.Hongbin Song.
+Human movement in China can be observed directly from mobile phone data, through the Baidu location-based services (LBS). Both the recorded movements and relative volume of inflows, outflows, inner movement among cities (n=358), were obtained from the migration flows database (http://qianxi.baidu.com/) from 1 January 2019 to 1 April 2020. Mobility data outside China is obtained from Apple Maps (www.apple.com/covid19/mobility) from 13 January 2020 to 4 July 2020, a total of 40 countries were used for analysis (See Extended Data Table 2). The human mobility data that support the findings of this study are available on request from the Baidu location-based services (Baidu Online Network Technology (Beijing) Co.,Ltd., http://qianxi.baidu.com/). Baidu's LBS data was collected and processed by Dr.Ligui Wang and Dr.Hongbin Song. 
 
 ## License
 
