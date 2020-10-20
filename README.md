@@ -1,6 +1,7 @@
 # COVID-19_HSM
 
 Code for: Quantifying the impact of lockdowns on the local and hierarchical spread of SARS-CoV-2
+DOI: 10.5281/zenodo.4107876
 
 ## Citation
 
